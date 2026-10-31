@@ -1,0 +1,8 @@
+.env
+.env.bak
+__pycache__/
+venv/
+.venv/
+*.pyc
+.DS_Store
+.hf_cache/

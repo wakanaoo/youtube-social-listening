@@ -1,0 +1,20 @@
+# .streamlit/config.toml
+[theme]
+primaryColor="#FF4B4B" # Streamlitのデフォルトカラー。美容系ならピンクやパープル系
+backgroundColor="#F0F2F6" # デフォルト
+secondaryBackgroundColor="#E0E4EB" # デフォルト
+textColor="#262730" # デフォルト
+font="sans serif" # デフォルト
+# 美容系に合うカラー例
+# primaryColor="#F28DA7"  # ほんのりピンク
+# backgroundColor="#FDF5F7" # 薄いピンクの背景
+# secondaryBackgroundColor="#FFE0EB" # 濃いピンクの背景 (サイドバーなど)
+# textColor="#4A4A4A" # 落ち着いたグレー
+# font="sans serif"
+
+# もしくは、よりスタイリッシュなダークモードなども検討
+# primaryColor="#FF4B4B"
+# backgroundColor="#0E1117" # ダークモードの背景
+# secondaryBackgroundColor="#262730" # ダークモードのサイドバー
+# textColor="#FAFAFA" # 白文字
+# font="sans serif"
